@@ -1,0 +1,6 @@
+D:\SceneVoid\2019\AI Research\neural\bin\Debug\neural.exe
+D:\SceneVoid\2019\AI Research\neural\bin\Debug\neural.pdb
+D:\SceneVoid\2019\AI Research\neural\obj\Debug\neural.exe
+D:\SceneVoid\2019\AI Research\neural\obj\Debug\neural.pdb
+D:\SceneVoid\2019\AI Research\neural\obj\Debug\neural.csprojAssemblyReference.cache
+D:\SceneVoid\2019\AI Research\neural\obj\Debug\neural.csproj.CoreCompileInputs.cache
